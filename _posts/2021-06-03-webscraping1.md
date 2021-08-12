@@ -9,7 +9,7 @@ tags:
 published: false
 ---
 
-## XPath
+# XPath
 어떤 엘리멘트를 지칭하는지를 정확히 하기 위해 사용하는 개념.
 ```python
 학교/학년/반/학생[2]
